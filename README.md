@@ -5,7 +5,8 @@
 The dataset used for this project is sourced from Kaggle and can be found at the following link: India Elections 2014 and 2019 Dataset.
 
 ### Project Overview
-![Uploading Election Dashboard.png…]
+![Election Dashboard](https://github.com/parchakeavinash/Election-Dashboard/assets/96370088/a7d5f261-8999-4635-8d3c-6e028d9adb8a)
+
 
 The analysis involves:
 
