@@ -5,18 +5,22 @@
 The dataset used for this project is sourced from Kaggle and can be found at the following link: India Elections 2014 and 2019 Dataset.
 
 ### Project Overview
-![Uploading Election Dashboard.png…]()
+![Uploading Election Dashboard.png…]
 
 The analysis involves:
 
 Data Cleaning: Handling missing values, data normalization, and preparation for analysis.
 Exploratory Data Analysis (EDA): Identifying trends, patterns, and key metrics from the dataset.
+
 Visualizations: Creating insightful visualizations to represent the election results and trends effectively.
+
 Reporting: Summarizing findings and insights derived from the analysis.
-Tools and Technologies
+
+### Tools and Technologies
 Figma: Used for creating the project template and designing the layout for the report and visualizations.
+
 Power BI: Utilized for creating interactive and dynamic visualizations.
-Python: For data cleaning, analysis, and some static visualizations using libraries such as Pandas, Matplotlib, and Seaborn
+
 
 #### Contributions
 Contributions to this project are welcome. If you have any ideas, suggestions, or issues, please open a pull request or raise an issue.
